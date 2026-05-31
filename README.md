@@ -6,7 +6,8 @@ Breakfast:
 - TBD
 
 Mains:
-- Baozi - WIP
+- Pizza - WIP
+- Baozi
 
 Sides:
 - TBD
