@@ -2,18 +2,24 @@
 My culinary instructions/experiments (all hopefully good)
 
 ## the eats (a guide):
-recipes/
+Breakfast:
+- TBD
 
-├── breakfast/
+Mains:
+- Baozi - WIP
 
-├── mains/
+Sides:
+- TBD
 
-├── sides/
+Desserts:
+- Flan
+- Apple pie - WIP
 
-├── desserts/
+Breads:
+- Boule
 
-├── breads/
+Drinks:
+- TBD
 
-├── drinks/
-
-└── experimental/
+Experimental:
+- Classified
