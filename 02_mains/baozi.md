@@ -5,7 +5,7 @@ Makes 5 buns.
 ### Ingredients:
 
 **Dough:**
-- 2 cups all-purpose flour
+- 2 cups all-purpose flour (can also do a 1:1 all purpose to whole wheat ratio, just add 7/8 cup of water instead of 3/4)
 - 3/4 cup warm water (additonaly 3/4 cup for active dry yeast activation)
 - 1 tsp instant yeast (or active dry yeast, see below)
 - 1 tbsp sugar (only if using active dry yeast)
