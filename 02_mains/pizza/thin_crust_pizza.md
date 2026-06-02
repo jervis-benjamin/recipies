@@ -27,8 +27,8 @@ Makes 1 twelve-inch thin crust.
 4) Shape the dough into a ball, place it in a lightly oiled bowl, and turn to coat.
 
 ## Part 2:
-- Cover and let rise until doubled, about 1–2 hours (or ~45 minutes for a crispier, denser crust).
-- **Make ahead (recommended for flavor):** Seal the dough ball in a lightly oiled container or zip-top bag and refrigerate for 24–72 hours. When ready to bake, let it sit at room temperature until is it slighly cold and workable.
+- **If making the same day** Cover and let rise until doubled, about 1–2 hours (or ~45 minutes for a crispier, denser crust).
+- **If making ahead (recommended for flavor):** Seal the dough ball in a lightly oiled container or zip-top bag and refrigerate for 24–72 hours. When ready to bake, let it sit at room temperature until is it slighly cold and workable.
 
 ## Part 3: Shaping and baking (start ~1 hour before eating)
 1) Place a pizza stone, steel, or inverted baking sheet on the middle rack. Preheat the oven as hot as it goes (ideally 500–550ºF) for at least 45 minutes.
