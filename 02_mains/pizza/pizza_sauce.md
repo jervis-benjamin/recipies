@@ -1,4 +1,4 @@
-# Pizza Sauce (Fresh Tomato)
+# Pizza Sauce (Fresh Tomato Recipe Included)
 A simple cooked tomato sauce for pizza.\
 Makes about 1/2 cup (enough for one 12-inch pizza).
 
