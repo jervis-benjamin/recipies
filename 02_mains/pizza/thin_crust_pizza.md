@@ -26,10 +26,9 @@ Makes 1 twelve-inch thin crust.
 3) Knead on a lightly floured surface for 8-10 minutes (or ~5 minutes in a stand mixer with a dough hook) until smooth and elastic and slighly sticky (add little very little water if not).
 4) Shape the dough into a ball, place it in a lightly oiled bowl, and turn to coat.
 
-## Part 2: Rising (pick one)
-*Note: Same-day pizza = room temp. Make-ahead or deeper flavor = fridge. For an extra-crisp crust, keep the room-temp rise short.
-- **Same day:** Cover and let rise until doubled, about 1–2 hours (or ~45 minutes for a crispier, denser crust).
-- **Make ahead (recommended for flavor):** Seal the dough ball in a lightly oiled container or zip-top bag and refrigerate for 24–72 hours. When ready to bake, let it sit at room temperature for 30–60 minutes until it loses its chill.
+## Part 2:
+- **If making the same day** Cover and let rise until doubled, about 1–2 hours (or ~45 minutes for a crispier, denser crust).
+- **If making ahead (recommended for flavor):** Seal the dough ball in a lightly oiled container or zip-top bag and refrigerate for 24–72 hours. When ready to bake, let it sit at room temperature until is it slighly cold and workable.
 
 ## Part 3: Shaping and baking (start ~1 hour before eating)
 1) Place a pizza stone, steel, or inverted baking sheet on the middle rack. Preheat the oven with a cooking surface (pizza stone/steel) as hot as it goes (ideally 450–500ºF) for at least 30 minutes.
