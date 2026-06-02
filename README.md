@@ -10,6 +10,7 @@ Mains:
 - Pizza
     - Thin crust dough
     - Normal crust dough - WIP
+    - Pizza sauce
 
 
 Sides:
