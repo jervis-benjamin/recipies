@@ -6,8 +6,11 @@ Breakfast:
 - TBD
 
 Mains:
-- Pizza - WIP
 - Baozi
+- Pizza
+    - Thin crust dough
+    - Normal crust dough
+
 
 Sides:
 - TBD
