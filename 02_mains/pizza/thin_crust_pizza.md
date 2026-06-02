@@ -23,7 +23,7 @@ Makes 1 twelve-inch thin crust.
 *Note: This is the standard crust scaled to ~75%. Spreading less dough over the same 12-inch circle is what makes it thin, the formula is otherwise identical.
 1) In a large bowl, whisk together the flour, instant yeast, salt, and sugar.
 2) Add the warm water and olive oil. Stir until a shaggy dough forms and no dry flour remains.
-3) Knead on a lightly floured surface for 8-10 minutes (or ~5 minutes in a stand mixer with a dough hook) until smooth and elastic.
+3) Knead on a lightly floured surface for 8-10 minutes (or ~5 minutes in a stand mixer with a dough hook) until smooth and elastic and slighly sticky (add little very little water if not).
 4) Shape the dough into a ball, place it in a lightly oiled bowl, and turn to coat.
 
 ## Part 2: Rising (pick one)
@@ -32,12 +32,11 @@ Makes 1 twelve-inch thin crust.
 - **Make ahead (recommended for flavor):** Seal the dough ball in a lightly oiled container or zip-top bag and refrigerate for 24–72 hours. When ready to bake, let it sit at room temperature for 30–60 minutes until it loses its chill.
 
 ## Part 3: Shaping and baking (start ~1 hour before eating)
-1) Place a pizza stone, steel, or inverted baking sheet on the middle rack. Preheat the oven as hot as it goes (ideally 500–550ºF) for at least 45 minutes.
+1) Place a pizza stone, steel, or inverted baking sheet on the middle rack. Preheat the oven with a cooking surface (pizza stone/steel) as hot as it goes (ideally 450–500ºF) for at least 30 minutes.
 2) Punch the dough down, re-ball it, and let it rest covered for 10–15 minutes.
-\
-TODO: ADD STEP TO PRECOOK SHEET
-3) On a floured surface or a sheet of parchment, press and stretch the dough into a thin 12-inch round with only a slim rim. A light pass with a rolling pin is fine here for evenness.
-4) Dock the dough all over with a fork to keep big bubbles from forming.
-5) Top lightly with sauce, cheese, and toppings so the thin base can crisp.
-6) Slide the pizza (on its parchment) onto the hot surface and bake for 6–10 minutes — start checking early, since thin crust bakes fast.
+3) On a floured surface or a sheet of parchment, press and stretch the dough into a thin 12-inch round with only a slim rim. A light pass with a rolling pin is fine here for evenness. Aim for around half a centimeter of thickness.
+4) Dock the dough all over with a fork to keep big bubbles from forming. 
+5) Brush some olive oil over the sheet and parbake it by placing it on the cooking surface for around 3-4 minutes or however long it takes for it to set (it should have very minimal color) 
+5) Carefully take it out along with the surface, and top lightly with sauce, cheese, and toppings so the thin base can crisp.
+6) Slide the pizza (on its parchment or on a floured stone/steel) onto the hot surface and bake for 6–10 minutes — start checking early, since thin crust bakes fast.
 7) Let it cool a minute before slicing.
