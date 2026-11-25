@@ -21,7 +21,7 @@ Roughly following recipe from: https://natashaskitchen.com/apple-pie-recipe/
 - Pizza cutter
 - Whisk (or adjacent tool)
 
-## Part 1: Making the filling\
+## Part 1: Making the filling
 1) Peel, core, and cut the apples into flat slices about 1/4 inch thick into a large bowl. Toss with the cinnamon until it is coated.
 1) Now in a saucepan over medium heat, melt the butter. Whisk in the flour and let it cook for 1 minute while whisking constantly.
 2) Slowly whisk in the water, then the sugar. Bring it to a boil, then reduce the heat and let it simmer gently for 3 minutes, stirring often (small bubbles, not a hard boil). It should have a light caramel sauce like consistency at the end. 
