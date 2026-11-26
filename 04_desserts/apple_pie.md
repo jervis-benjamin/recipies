@@ -5,7 +5,7 @@ Roughly following recipe from: https://natashaskitchen.com/apple-pie-recipe/
 
 ### Ingredients:
 - 2 pie dough sheets for a 9-inch pie (store-bought or homemade)
-- 2 1/4 lbs Granny Smith apples (about 6–7 apples, or 7 cups sliced)
+- 2 1/4 lbs Granny Smith apples (about 6–7 medium apples, or 4 large ones)
 - 1 1/2 tsp cinnamon
 - 8 tbsp unsalted butter
 - 3 tbsp all-purpose flour
